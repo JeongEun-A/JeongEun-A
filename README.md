@@ -9,13 +9,13 @@
 
 <br>
 
-<h1>📧Connect</h1>
+<h2>📧Connect</h2>
 <li>블로그 : <a href="https://blog.naver.com/ekfmsdlf136">https://blog.naver.com/ekfmsdlf136</a></li>
 <li>깃허브 :<a href="https://github.com/JeongEun-A">https://github.com/JeongEun-A</a></li>
 
 <br>
 
-<h1>✏️Tech Stack</h1>
+<h2>✏️Tech Stack</h2>
 <h3>Back-End</h3>
 <li>jsp/servlet</li>
 <li>Python</li>
@@ -30,7 +30,7 @@
 
 <br>
 
-<h1>💾Project</h1>
+<h2>💾Project</h2>
 <details>
   <summary><b>실시간 채팅이 가능한 신발 SNS 구현 (2024.03.20~2024.04.04)</b></summary> 
   <br>
