@@ -4,4 +4,6 @@
 <li>통계학📖 지식으로 데이터 분석과 융합할 수 있습니다</li>
 <li>개발을 시작하면 시간이 가는줄 모를 정도로 몰두⌛하는 타입입니다!</li>
 <li>문제를 해결하는 즐거움으로, 오류를 읽을 줄 아는🔍 개발자입니다.</li>
-<li>블로그에 공부내용을 공유🔗하며 함께 공부하는 것을 좋아합니다.</li>
+<li>블로그에 공부내용을 공유🔗하며 함께 공부하는 것을 좋아합니다. <a href="[①버튼을 눌렀을 때 이동할 링크](https://blog.naver.com/ekfmsdlf136)" target="_blank"> 
+<img src="https://img.shields.io/badge/blog-③배경색?style=social&logo=naver&logoColor=03C75A" /></a></li>
+
