@@ -16,6 +16,7 @@
 
 <h3>Front-End</h3>
 <li>JavaScript</li>
+<li>VScode</li>
 <li>HTML/CSS</li>
 
 <h3>Data</h3>
