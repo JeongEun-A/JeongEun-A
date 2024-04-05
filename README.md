@@ -9,7 +9,7 @@
 
 <br>
 
-<h1>✏️Tach Stack✏️</h1>
+<h1>✏️Tech Stack✏️</h1>
 <h3>Back-End</h3>
 <li>jsp/servlet</li>
 <li>Python</li>
