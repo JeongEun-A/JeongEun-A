@@ -16,16 +16,16 @@
 <br>
 
 <h2>✏️Tech Stack</h2>
-<h3>Back-End</h3>
+<h4>Back-End</h4>
 <li>jsp/servlet</li>
 <li>Python</li>
 
-<h3>Front-End</h3>
+<h4>Front-End</h4>
 <li>JavaScript</li>
 <li>VScode</li>
 <li>HTML/CSS</li>
 
-<h3>Data</h3>
+<h4>Data</h4>
 <li>Oracle</li>
 
 <br>
