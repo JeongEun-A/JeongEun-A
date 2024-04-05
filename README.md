@@ -32,7 +32,7 @@
 
 <h2>💾Project</h2>
 <details>
-  <summary><b>실시간 채팅이 가능한 신발 SNS 구현 (2024.03.20~2024.04.04)</b></summary> 
+  <summary><h3>실시간 채팅이 가능한 신발 SNS 구현 (2024.03.20~2024.04.04)</h3></summary> 
   <br>
   <hr>
   
@@ -59,7 +59,7 @@
   <br>
 </details>
 <details>
-  <summary><b>고든램지의 재료맞추기 스피드런 (2024.01.31~2024.02.02)</b></summary> 
+  <summary><h3>고든램지의 재료맞추기 스피드런 (2024.01.31~2024.02.02)</h3></summary> 
    <br>
  <hr>
  <h3>서비스 설명</h3>
