@@ -11,7 +11,7 @@
 
 <h1>📧Connect📧</h1>
 <li>블로그 : <a href="https://blog.naver.com/ekfmsdlf136">https://blog.naver.com/ekfmsdlf136</a></li>
-<li>깃허브 :<a href="https://github.com/JeongEun-A">(https://github.com/JeongEun-A</a></li>
+<li>깃허브 :<a href="https://github.com/JeongEun-A">https://github.com/JeongEun-A</a></li>
 
 <br>
 
