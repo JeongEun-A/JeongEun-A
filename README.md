@@ -7,13 +7,16 @@
 <li>블로그에 공부내용을 공유🔗하며 함께 공부하는 것을 좋아합니다. <a href="https://blog.naver.com/ekfmsdlf136" target="_blank"> 
 <img src="https://img.shields.io/badge/blog-③배경색?style=social&logo=naver&logoColor=03C75A" /></a></li>
 
-<h2>Back-End</h2>
-<li>Java</li>
+<br>
+
+<h1>✏️Tach Stack✏️</h1>
+<h3>Back-End</h3>
+<li>jsp/servlet</li>
 <li>Python</li>
 
-<h2>Front-End</h2>
+<h3>Front-End</h3>
 <li>JavaScript</li>
 <li>HTML/CSS</li>
 
-<h2>Data</h2>
+<h3>Data</h3>
 <li>Oracle</li>
