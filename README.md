@@ -18,6 +18,7 @@
 <h3>Back-End</h3>
 <li>jsp/servlet</li>
 <li>Python</li>
+<li>Spring</li>
 
 <h3>Front-End</h3>
 <li>JavaScript</li>
@@ -26,6 +27,7 @@
 
 <h3>Data</h3>
 <li>Oracle</li>
+<li>MySQL</li>
 
 <br>
 
