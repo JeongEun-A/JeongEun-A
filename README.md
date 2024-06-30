@@ -25,9 +25,15 @@
 <li>VScode</li>
 <li>HTML/CSS</li>
 
-<h3>Data</h3>
+<h3>Data Base</h3>
 <li>Oracle</li>
 <li>MySQL</li>
+
+<h3>Data Anaylsis</h3>
+<li>R</li>
+<li>SPSS</li>
+<li>SAS</li>
+<li>minitab</li>
 
 <br>
 
